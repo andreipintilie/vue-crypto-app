@@ -1,4 +1,4 @@
-# VueJS Blog Web Application
+# VueJS Crypto Web Application
 ## Download the project
 
 • via Git
